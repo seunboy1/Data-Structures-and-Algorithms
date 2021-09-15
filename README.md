@@ -3,6 +3,6 @@ This repository contains implementations of various popular data structure and a
 
 
 ## Future Plans
-At the moment most of these implementations were initially written in Python, my plan is to expand this repository to include implementations in other languages such as:
+At the moment most of these implementations are written in Python, my plan is to expand this repository to include implementations in other languages such as:
 - C++
 - Scala
