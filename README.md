@@ -6,3 +6,4 @@ This repository contains various implementations of popular data structure and a
 At the moment most of these implementations are written in Python, my plan is to expand this repository to include implementations in other languages such as:
 - C++
 - Scala
+- JavaScript
